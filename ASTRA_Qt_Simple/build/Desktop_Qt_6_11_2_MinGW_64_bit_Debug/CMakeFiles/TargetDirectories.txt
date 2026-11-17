@@ -1,0 +1,3 @@
+C:/Users/abhin/Downloads/ASTRA_Qt_Integrated/ASTRA_Qt_Simple/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/ASTRA_GUI.dir
+C:/Users/abhin/Downloads/ASTRA_Qt_Integrated/ASTRA_Qt_Simple/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/abhin/Downloads/ASTRA_Qt_Integrated/ASTRA_Qt_Simple/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
